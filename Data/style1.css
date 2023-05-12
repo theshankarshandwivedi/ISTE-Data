@@ -1,0 +1,245 @@
+/* .container {
+    display: flex;
+}
+
+.card {
+    width: 65rem;
+    height: 10rem;
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row ;
+} */
+
+
+
+body {
+    background: url('isbg.jpg');
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    left: 23rem;
+    color: rgb(7, 6, 5);
+    background-color: gold;
+    width: 50vw;
+    align-items: center;
+    border-radius: 20px;
+    font-size: 90px;
+  }
+
+  .card {
+    /* border: 1px solid #ad2020; */
+    background: url('pfbg.avif');
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 77vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* text-align: center; */
+  }
+
+  .card img {
+    height: 38vh;
+  }
+
+  .card img:hover {
+    width: 20vw;
+    height: 47vh;
+  }
+
+  .container1 {
+
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #executives-1 {
+    width: 46vw;
+
+  }
+
+  #executives-2 {
+    width: 46vw;
+
+  }
+
+  .container2 {
+    /* background-color: #e6f7ff; */
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #graphic-1 {
+    width: 46vw;
+
+  }
+
+  #graphic-2 {
+    width: 46vw;
+  }
+
+  .container3 {
+
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #webd1 {
+    width: 46vw;
+  }
+
+  #webd2 {
+    width: 46vw;
+  }
+
+  .container4 {
+
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  #video-1 {
+    width: 46vw;
+
+  }
+
+  #video-2 {
+    width: 46vw;
+  }
+
+  #fa {
+    font-size: 5em;
+  }
+
+  #fb {
+    font-size: 5em;
+  }
+
+  #fc {
+    font-size: 5em;
+
+  }
+
+  #fd {
+    font-size: 5em;
+  }
+
+  .cont-1 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+    color: purple;
+  }
+
+  .cont-1 :hover {
+    color: grey;
+  }
+
+  .cont-2 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-2 :hover {
+    color: grey;
+  }
+
+  .cont-3 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+
+  }
+
+  .cont-3 :hover {
+    color: grey;
+  }
+
+  .cont-4 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-4 :hover {
+    color: grey;
+  }
+
+  .cont-5 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-5 :hover {
+    color: grey;
+  }
+
+  .cont-6 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-6 :hover {
+    color: grey;
+  }
+
+  .cont-7 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-7 :hover {
+    color: grey;
+  }
+
+  .cont-8 {
+    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 7%;
+    position: relative;
+    right: 7%;
+    top: 3%;
+  }
+
+  .cont-8 :hover {
+    color: grey;
+  }
+
